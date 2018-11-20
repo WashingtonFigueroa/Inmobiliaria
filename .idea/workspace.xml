@@ -2,61 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f14a41-0367-4200-9b55-f39b620715a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/about/about.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/about/about.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/boletin/boletin.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/boletin/boletin.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/cliente/cliente.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/cliente/cliente.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/contact/contact.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/contact/contact.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/footer/footer.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/franquicia/franquicia.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/franquicia/franquicia.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/agents/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/about/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/about/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/about/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/about/2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/blog/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/comment/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/comment/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/comment/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/faq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/error.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/error.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/pattern-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/pattern-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/background/pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/background/pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/brand/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/brand/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/brand/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/brand/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/brand/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/brand/5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/footer-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/gallery/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/logo-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/logo-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/meeting.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/3.jpg" afterDir="false" />
@@ -65,17 +28,8 @@
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/service.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/service.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/slider-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/slider-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/slider-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/slider/slider-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente/src/assets/images/property/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente/src/assets/images/property/preview.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,14 +76,54 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-397550265">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
+          <entry key="TsLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cliente/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>view</find>
       <find>more</find>
+      <find>header</find>
+      <find>app-header</find>
+      <find>inicio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,11 +135,11 @@
         <option value="$PROJECT_DIR$/Cliente/src/app/components/cliente/cliente.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/header/header.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/about/about.component.html" />
-        <option value="$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/contact/contact.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/franquicia/franquicia.component.html" />
         <option value="$PROJECT_DIR$/Cliente/src/app/components/boletin/boletin.component.html" />
+        <option value="$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html" />
       </list>
     </option>
   </component>
@@ -174,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,19 +211,40 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="boletin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Inmobiliaria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inmobiliaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inmobiliaria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inmobiliaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="principal" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="appcompo&#9;FILE&#9;file://C:/Users/HP User/Documents/trabajos/washington/Inmobiliaria/Cliente/src/app/app.component.html&#10;appmodu&#9;FILE&#9;file://C:/Users/HP User/Documents/trabajos/washington/Inmobiliaria/Cliente/src/app/app.module.ts" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CarritoCompras" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\HP User\Documents\trabajos\washington\Inmobiliaria\Cliente\node_modules\tslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="ts.external.directory.path" value="C:\xampp\htdocs\DTE\Inmobiliaria\Cliente\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\HP User\Documents\trabajos\washington\Inmobiliaria\Cliente\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -258,16 +274,17 @@
       <workItem from="1542055305834" duration="2217000" />
       <workItem from="1542069442027" duration="618000" />
       <workItem from="1542159935270" duration="634000" />
+      <workItem from="1542732471516" duration="977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14236000" />
+    <option name="totallyTimeSpent" value="15213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25183016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,7 +298,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.20613287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5498534" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -315,24 +332,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cliente/src/app/components/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cliente/src/app/components/about/about.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="291" column="21" lean-forward="true" selection-start-line="291" selection-start-column="21" selection-end-line="291" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -365,6 +368,38 @@
           <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
           <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
           <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#169#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/src/app/components/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="56" column="104" lean-forward="true" selection-start-line="56" selection-start-column="104" selection-end-line="56" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/src/app/components/principal/principal.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="292" column="12" selection-start-line="292" selection-start-column="12" selection-end-line="292" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
