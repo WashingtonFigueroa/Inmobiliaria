@@ -13,33 +13,34 @@
         <div class="col-lg-3 col-md-6">
           <div class="at-col-default-mar">
             <select>
-              <option value="0" selected>Ubicación</option>
-              <option value="1">Alabama</option>
-              <option value="2">Alaska</option>
-              <option value="3">California</option>
-              <option value="4">Colorado</option>
-              <option value="5">Delaware</option>
-              <option value="6">District of Columbia</option>
+              <option value="0" selected>Sector</option>
+              <option value="1">Norte</option>
+              <option value="2">Centro</option>
+              <option value="3">Sur</option>
+              <option value="3">Valle de los Chillos</option>
+              <option value="3">Cumbaya</option>
+              <option value="3">Otros</option>
             </select>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="at-col-default-mar">
             <select class="div-toggle" data-target=".my-info-1">
-              <option value="0" data-show=".acitveon" selected>Estado de la propiedad</option>
-              <option value="1" data-show=".sale">For Sale</option>
-              <option value="2" data-show=".rent">For Rent</option>
+              <option value="0" selected>Interés de vivienda</option>
+              <option value="1">Casa</option>
+              <option value="2">Departamento</option>
+              <option value="3">Terrerno</option>
             </select>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="at-col-default-mar">
-            <input class="at-input" type="text" name="min-area" placeholder="Squre Fit Min">
+            <input class="at-input" type="text" name="min-area" placeholder="M2 Mínimo">
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="at-col-default-mar">
-            <input class="at-input" type="text" name="max-area" placeholder="Squre Fit Max">
+            <input class="at-input" type="text" name="max-area" placeholder="M2 Máximo">
           </div>
         </div>
       </div>
@@ -70,21 +71,13 @@
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="at-col-default-mar">
-            <div class="at-pricing-range">
-              <div class="my-info-1">
-                <h4>At first select Property Status</h4>
-                <div class="acitveon sale hide">
-                  <label>Price : </label>
-                  <input type="text" class="amount at-input-price" readonly>
-                  <div class="slider-range"></div>
-                </div>
-                <div class="rent hide">
-                  <label>Price : </label>
-                  <input type="text" class="amount-two at-input-price" readonly>
-                  <div class="slider-range-two"></div>
-                </div>
-              </div>
-            </div>
+            <select class="form-control">
+              <option value="0" selected>Costo entre</option>
+              <option value="1">30000 - 70000</option>
+              <option value="2">70000 - 100000</option>
+              <option value="3">100000 - 1500000</option>
+              <option value="3">mas de 1500000</option>
+            </select>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
@@ -163,20 +156,20 @@
           <div class="at-property-img">
             <img src="assets/images/property/1.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4>For Sale</h4>
-            <h5>$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4>En Venta</h4>
+            <h5>$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
@@ -185,20 +178,20 @@
           <div class="at-property-img">
             <img src="assets/images/property/2.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4 class="at-bg-black">For Rent</h4>
-            <h5 class="at-bg-black">$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4 class="at-bg-black">En Renta</h4>
+            <h5 class="at-bg-black">$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
@@ -207,20 +200,20 @@
           <div class="at-property-img">
             <img src="assets/images/property/3.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4>For Sale</h4>
-            <h5>$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4>En Venta</h4>
+            <h5>$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
@@ -229,20 +222,20 @@
           <div class="at-property-img">
             <img src="assets/images/property/4.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4 class="at-bg-black">For Rent</h4>
-            <h5 class="at-bg-black">$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4 class="at-bg-black">En Renta</h4>
+            <h5 class="at-bg-black">$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
@@ -251,20 +244,20 @@
           <div class="at-property-img">
             <img src="assets/images/property/5.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4>For Sale</h4>
-            <h5>$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4>En Venta</h4>
+            <h5>$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
@@ -273,24 +266,25 @@
           <div class="at-property-img">
             <img src="assets/images/property/6.jpg" alt="">
             <div class="at-property-overlayer"></div>
-            <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">View Details</a>
-            <h4 class="at-bg-black">For Rent</h4>
-            <h5 class="at-bg-black">$59,999</h5>
+            <a class="btn btn-default at-property-btn" routerLink="proyecto" role="button">Ver Detalles</a>
+            <h4 class="at-bg-black">En Renta</h4>
+            <h5 class="at-bg-black">$7,200.00</h5>
           </div>
           <div class="at-property-dis">
             <ul>
-              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft</li>
+              <li><i class="fa fa-object-group" aria-hidden="true"></i> 520 m2</li>
               <li><i class="fa fa-bed" aria-hidden="true"></i> 6</li>
               <li><i class="fa fa-bath" aria-hidden="true"></i> 3</li>
             </ul>
           </div>
           <div class="at-property-location">
-            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">New Superb Villa</a></h4>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york</p>
+            <h4><i class="fa fa-home" aria-hidden="true"></i><a href="properties-details.html">LEGAZPI - VERDE NOVA</a></h4>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> 7,959.82 m2 SANGOLQUÍ, CONSTRUCTORA CFN</p>
           </div>
         </div>
       </div>
-      <div class="text-center"><a class="btn btn-default hvr-bounce-to-right" href="properties-col-3.html" role="button">More Properties</a>
+      <div class="text-center">
+        <button class="btn btn-default hvr-bounce-to-right" ><a routerLink="proyecto">Mas Propiedades</a></button>
       </div>
     </div>
   </div>
