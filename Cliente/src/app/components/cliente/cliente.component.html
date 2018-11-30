@@ -17,11 +17,20 @@
 <!-- Contact Start from here -->
 <section class="at-contact-sec">
   <div class="container">
+    <h2>Cotice con su Francia preferida</h2><br>
     <div class="row">
       <div class="col-md-6 col-sm-6">
         <div class="at-contact-form at-col-default-mar">
           <div id="form-messages"></div>
           <form id="ajax-contact" method="post" action="php/contact.php">
+            <select class="form-control">
+              <option>Seleccione Francia</option>
+              <option value="1">MYKASA</option>
+              <option value="2">ZION INMOBILIARIA</option>
+              <option value="3">QUICK HOME</option>
+              <option value="3">PUEBLO BLANCO</option>
+              <option value="3">DATA NERD</option>
+            </select>
             <input type="text" class="form-control" id="name" name="name" placeholder="Nombres" required>
             <input type="text" class="form-control" id="cedula" name="cedula" placeholder="C.I/Ruc:" required>
             <input type="number" class="form-control" id="telefono" name="telefono" placeholder="Teléfono Convencional" required>
