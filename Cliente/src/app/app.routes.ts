@@ -3,9 +3,9 @@ import {
     AboutComponent,
     ClienteComponent,
     ContactComponent,
-    FranquiciaComponent,
+    FranquiciaComponent, LegazpiComponent,
     PrincipalComponent,
-    ProyectoComponent
+    ProyectoComponent, PuertomontComponent, RseComponent, TestimoniosComponent, VerdenovaComponent
 } from './components/rutas.paginas';
 
 const app_routes: Routes = [
@@ -15,6 +15,11 @@ const app_routes: Routes = [
     { path: 'cliente', component: ClienteComponent},
     { path: 'franquicia', component: FranquiciaComponent},
     { path: 'proyecto', component: ProyectoComponent},
+    { path: 'puertomont', component: PuertomontComponent},
+    { path: 'verdenova', component: VerdenovaComponent},
+    { path: 'legazpi', component: LegazpiComponent},
+    { path: 'testimonios', component: TestimoniosComponent},
+    { path: 'rse', component: RseComponent},
     { path: '**', pathMatch: 'full', redirectTo: 'inicio'}
 ];
 

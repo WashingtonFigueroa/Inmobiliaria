@@ -49,11 +49,23 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown"
                              data-animations="fadeInUp">
                             <ul class="nav navbar-nav navbar-right">
-                                <li routerLinkActive="active"><a routerLink="inicio">INICIO</a></li>
-                                <li routerLinkActive="active"><a routerLink="proyecto">PROYECTOS</a></li>
-                                <li routerLinkActive="active"><a routerLink="about">¿QUIÉNES SOMOS?</a></li>
-                                <li routerLinkActive="active"><a routerLink="franquicia">FRANQUICIADOS</a></li>
-                                <li routerLinkActive="active"><a routerLink="cliente">CLIENTES</a></li>
+                                <li routerLinkActive="active"><a routerLink="inicio">QUIENES SOMOS</a></li>
+                                <li class="dropdown" routerLinkActive="active">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROYECTOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a routerLink="proyecto">ALTOS DE PUEBLO BLANCO</a>
+                                        </li>
+                                        <li><a routerLink="puertomont">PUERTO MONT</a>
+                                        </li>
+                                        <li><a routerLink="verdenova">VERDE NOVA - TIERRA VERDE</a>
+                                        </li>
+                                        <li><a routerLink="legazpi">VERDE NOVA LEGAZPI</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li routerLinkActive="active"><a routerLink="testimonios">TESTIMONIOS</a></li>
+                                <li routerLinkActive="active"><a routerLink="franquicia">COTIZADOR</a></li>
+                                <li routerLinkActive="active"><a routerLink="cliente">RSE</a></li>
                                 <li routerLinkActive="active"><a routerLink="contact">CONTACTOS</a></li>
                             </ul>
                         </div>

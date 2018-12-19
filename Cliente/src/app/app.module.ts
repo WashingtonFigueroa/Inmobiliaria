@@ -13,6 +13,11 @@ import { BoletinComponent } from './components/boletin/boletin.component';
 import { ProyectoComponent } from './components/proyecto/proyecto.component';
 import { FranquiciaComponent } from './components/franquicia/franquicia.component';
 import { ClienteComponent } from './components/cliente/cliente.component';
+import { PuertomontComponent } from './components/puertomont/puertomont.component';
+import { VerdenovaComponent } from './components/verdenova/verdenova.component';
+import { LegazpiComponent } from './components/legazpi/legazpi.component';
+import { TestimoniosComponent } from './components/testimonios/testimonios.component';
+import { RseComponent } from './components/rse/rse.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +30,12 @@ import { ClienteComponent } from './components/cliente/cliente.component';
     BoletinComponent,
     ProyectoComponent,
     FranquiciaComponent,
-    ClienteComponent
+    ClienteComponent,
+    PuertomontComponent,
+    VerdenovaComponent,
+    LegazpiComponent,
+    TestimoniosComponent,
+    RseComponent
   ],
   imports: [
     BrowserModule,
